@@ -1,2 +1,2 @@
-A simple game using the JBox2D physics engine. Code used for running simulation is found in QuickTest.java, utilizing several classes
+A tower stacking game using the JBox2D physics engine. Code used for running simulation is found in QuickTest.java, utilizing several classes
 such as the Box, Boundary, and Spring classes. All visuals are implemented using Processing software.
